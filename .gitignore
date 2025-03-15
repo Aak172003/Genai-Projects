@@ -1,0 +1,8 @@
+# Hide All Env Files 
+**/.env
+
+# Hide Notes files 
+Notes/
+
+# Hide Environment Files 
+langchain_env
