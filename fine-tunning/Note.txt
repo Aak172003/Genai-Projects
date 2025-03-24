@@ -1,0 +1,7 @@
+
+Generally we have tow techniques to perform Fine-Tuning
+
+1. PEFT (Parameter-Efficient Fine-Tuning)
+
+2. Low-Rank Adaptation (LoRA) is a PEFT method that decomposes a large matrix into two smaller low-rank matrices in the attention layers. 
+This drastically reduces the number of parameters that need to be fine-tuned.
